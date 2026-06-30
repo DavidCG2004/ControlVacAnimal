@@ -1,7 +1,9 @@
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Drift](https://img.shields.io/badge/Drift-0175C2?style=for-the-badge&logo=sqlite&logoColor=white)
-![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
+<picture>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Drift-0175C2?style=for-the-badge&logo=sqlite&logoColor=white" alt="Drift">
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License">
+</picture>
 ---
 
 # VacunApp — ControlVacAnimal
