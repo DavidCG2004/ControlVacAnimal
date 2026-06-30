@@ -6,7 +6,7 @@
 </picture>
 ---
 
-# VacunApp — ControlVacAnimal
+# App — ControlVacAnimal
 
 **Sistema de gestión de campañas de vacunación animal** diseñado para operar en territorio con conectividad intermitente. Permite registrar, consultar y sincronizar vacunaciones de perros y gatos en sectores urbanos, con captura de fotografía, geolocalización y soporte offline completo.
 
