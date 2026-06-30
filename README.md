@@ -424,7 +424,7 @@ El primer usuario (Coordinador de Campaña) debe crearse directamente en Supabas
 
 ### Flujo típico
 
-1. **Coordinador de Campaña**: Crea sectores y registra coordinadores de brigada
+1. **Coordinador de Campaña**: Crea sectores y registra coordinadores de brigada 
 2. **Coordinador de Brigada**: Asigna vacunadores a sectores y monitorea vacunaciones
 3. **Vacunador**: Registra vacunaciones en terreno (incluso sin conexión)
 
