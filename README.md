@@ -1,9 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-3.12+-02569B?logo=flutter&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3.12+-02569B?logo=flutter&logoColor=white">
-</picture>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Drift](https://img.shields.io/badge/Drift-2.22+-00BCD4?logo=sqlite&logoColor=white)
+![Drift](https://img.shields.io/badge/Drift-0175C2?logo=sqlite&logoColor=white)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
 ---
