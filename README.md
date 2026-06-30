@@ -51,11 +51,6 @@ El proyecto sigue los principios de **Clean Architecture** con **BLoC** para la 
 Cada rol tiene políticas de seguridad **Row-Level Security (RLS)** en Supabase que restringen el acceso a nivel de fila según el usuario autenticado.
 
 ---
-
-## Capturas de pantalla
-
-> *Las capturas de pantalla se agregarán próximamente. A continuación se describen las pantallas principales:*
-
 ### Módulo de autenticación
 - **Login** — Ingreso con correo electrónico y contraseña
 - **Cambio de contraseña** — Obligatorio en primer inicio de sesión
