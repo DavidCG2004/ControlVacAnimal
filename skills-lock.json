@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "flutter-add-widget-test": {
+      "source": "flutter/skills",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-add-widget-test/SKILL.md",
+      "computedHash": "f4ea905ae155d1bca76f5431bf6ed31f31e3d40146493e7ae4285eac39ba4ffd"
+    },
+    "flutter-apply-architecture-best-practices": {
+      "source": "flutter/skills",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-apply-architecture-best-practices/SKILL.md",
+      "computedHash": "baeb208b1cab90c559677626dbd101b96ba93f803cbed85122abdadeb3283a8b"
+    },
+    "flutter-build-responsive-layout": {
+      "source": "flutter/skills",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-build-responsive-layout/SKILL.md",
+      "computedHash": "6d74a9504c4e355c4c62f6fcb6c6dc0df67b56dd6616bea199e4e58f75b7729b"
+    },
+    "flutter-drift": {
+      "source": "madteacher/mad-agents-skills",
+      "sourceType": "github",
+      "skillPath": "flutter-drift/SKILL.md",
+      "computedHash": "e6d6df0b37deb58aa1efe36f6f820d78b443f75d3173f39a7558788c02748210"
+    },
+    "flutter-fix-layout-issues": {
+      "source": "flutter/skills",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-fix-layout-issues/SKILL.md",
+      "computedHash": "b2f9789451224e6df8d1d7ac63854c2f1beb30fa35d13ea06fbae9ba2b1b0a7f"
+    },
+    "flutter-setup-declarative-routing": {
+      "source": "flutter/skills",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-setup-declarative-routing/SKILL.md",
+      "computedHash": "4c2ed2fd729230be581b15d84741688e206632fb2b38af320060cd3518b91179"
+    }
+  }
+}
